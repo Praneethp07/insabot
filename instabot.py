@@ -91,7 +91,7 @@ class bot:
 
 
 def init():
-	bot('pra_neeth07', 'praneethsiddhanth','shivaprasad4785' ,"good job")
+	bot('your username', 'password','user' ,"good job")
 
 	# when our program ends it will show "done".
 	input("DONE")
